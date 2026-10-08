@@ -18,8 +18,7 @@ function App() {
         <section className="hero">
           <h2>Welcome to my CI/CD project</h2>
           <p>
-            This React application is automatically built, tested, Dockerized,
-            and deployed using a CI/CD pipeline.
+            we are still in learning phase . 
           </p>
 
           <button onClick={() => alert("CI/CD is working! 🚀")}>
